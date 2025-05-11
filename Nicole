@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WebSite</title>
+  </head>
+  <body>
+<a href="#"><img src="#"></a>
+<li><a href="#">How it works</a></li>
+<li><a href="#">Our community</a></li>
+<li><a href="#">About us</a></li>
+<li><a href="#">Client reviews</a></li>
+<button>Try for Free</button>
+<h1>Your personalized AI for mindfulnes</h1>
+<h3>Neuroscience-Backed Mindfulness
+  <h5>Embark on a journey towards inner peace, balance and self-discovery.</h5>
+  <button>Get the App</button>
+  <h3>Developed together with science-based mental health experts.</h3>
+  <h5>Evidence-based therapy methods available.</h5>
+  <button>CBT</button>
+  <button>MBSR</button>
+  <button>ACT</button>
+  <h5>Therapists available for personal appointments.</h5>
+  <a href="#"><img src="#"></a>
+  </body>
+</html>
