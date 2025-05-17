@@ -1,0 +1,32 @@
+<header>
+  <img src="#"/>
+  <nav>
+    <ul>
+      <li><a href="#">About Us</a></li>
+       <li><a href="#">Careers</a></li>
+      <li><a href="#">Contact</a></li>
+      <div>
+      <h1>Stories for everyone</h3>
+      <h4>Cultivate your imagination</h4>
+      <button>Join Waitlist</button>
+        </div>
+        <div>
+          <h2>Reading together anywhere</h2>
+          <div>
+            <img src="#" />
+            <img src="#" />
+            <img src="#" />
+            <h4>the modern book club</h4>
+            <p>Join the get smarte movement. Read with influencers or friends in reading clubs for digital natives. Our provocation discussion guides will make your interactions fun.</p>
+            <h4>Your time is precious</h4>
+            <p>Fable folios are curated by experts to suit your time, mood and interests. We do all the work to save you time with book summaries.</p>
+            <h4>Digital Nutrition</h4>
+            <p>It is time to put mobile screens in service of our mental weliness. Stories promote cognitive abilities that can lead to better mental health.</p>
+          </div>
+          <div>
+            <h1>Be the first to know</h1>
+            <h5> we are thrllled to add you to our list</h5>
+            <from action="/cadastrar" method="POST"></foles
+              <label for="email">Email</label>
+            <input type="email"nome="email" required>
+          </div>
