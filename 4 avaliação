@@ -1,0 +1,54 @@
+<body>
+<header>
+    <a>
+  <a href = "#"><button>Tosnos</button></a>
+  <nav>
+    <ul>
+      <a href = "#">Home</a>
+      <a href = "#">Product</a>
+      <a href = "#">Feature</a>
+      <a href = "#">Pricing</a>
+    </ul>
+    <div>
+      <button>Sigh Up</button>
+      <button>Log In</button>
+    </div>
+  </nav>
+</header>
+<main>
+  <section id = "intro">
+    <div>
+      <h5>Best software service</h5>
+    </div>
+      <h1>Creat &
+        analytics all necessaries
+  </h1>
+      <p>
+    Manage Your all documents transparent, safe and secure. We provide world's
+     </p>
+      <button>Get satarted</button>
+    <button>Explore More</button>
+  </div>
+  <div>
+ <img src="#"> 
+ <img src="#"> 
+ <img src="#">
+    <h4>We are trusted by<h4>
+     <img src="#">
+     <img src="#">
+     <img src="#">
+     <img src="#">
+     <img src="#">
+  </div>
+<section id = "final"> 
+  <h6>Features</h6>
+ <h1>Most essential features</h1>
+  <h4>Lorem Ipsum dolo sit amet consectetur. Neque vel orci eget rhoncus pretium. Proin ultrices elementun aliquet.</h4>
+  <button>Service Godwn</button>
+  <img src="#">
+  <img src="#">
+  <img src="#">
+      </section>
+      </main>
+    </body>
+  
