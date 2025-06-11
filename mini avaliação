@@ -1,0 +1,35 @@
+HTML:
+<header>
+<div
+<a href="#"><img src="#"></a>
+<h3> New Opportunity</h3>
+<nav>
+<button>Avaliable</button>
+</nav>
+</div>
+<div
+     <a href="#"><img src="#"></a>
+<a href="#">Jenifer A.</a>
+<h5> Meta-Facebook. California</h5>
+<h1>$35,000-$45,000</h1>
+<h5>14 Oct-2024</h5>
+<h5>89.5% Match</h5>
+<button class="verde">4.9</button>
+<button class="roxo">Web Design</button>
+<button class="amarelo">Responsive</button>
+<p
+   <h5>Need Responsive Website showcase product Modern and visually appealing design.</h5>
+</p>
+<a href="#"><img src="#"></a>
+<a href="#">Robert T.</a>
+<h5> Full Cycle Agency .Salt Lake</h5>
+<button> Accept Project</button>
+<button> Decline Offer</button>
+CSS: 
+button {
+  padding:8px;
+  border:4px;
+}
+.verde{background-color: green}
+.roxo{background-color: purple}
+.amarelo{background-color: yellow}
